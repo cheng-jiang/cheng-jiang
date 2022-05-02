@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an MS Financial Economics student at Columbia Business School graduating in May 2023. I previously graduated from Rensselaer Polytechnic Institute with a Bachelor of Science in Computer Science-Business and Management in 2020.
+
 <!--
 **cheng-jiang/cheng-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
