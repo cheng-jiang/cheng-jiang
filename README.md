@@ -1,6 +1,6 @@
-### Hi there 👋
+Cheng is a second-year M.S. Financial Economics student at Columbia Business School, graduating in May 2023. His previous experiences include equity research and fund of funds (FOF) research. Besides professional and academic life, he is a student pilot training in the New York metropolitan airspace.
 
-I am an MS Financial Economics student at Columbia Business School graduating in May 2023. I previously graduated from Rensselaer Polytechnic Institute with a Bachelor of Science in Computer Science-Business and Management in 2020.
+Cheng graduated magna cum laude from Rensselaer Polytechnic Institute with a B.S. in Computer Science, double majored in Business and Management.
 
 <!--
 **cheng-jiang/cheng-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
