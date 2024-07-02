@@ -1,6 +1,6 @@
-Cheng is a second-year M.S. Financial Economics student at Columbia Business School, graduating in May 2023. His previous experiences include equity research and fund of funds (FOF) research. Besides professional and academic life, he is a student pilot training in the New York metropolitan airspace.
+Cheng is currently an off-cycle analyst in the Global Investment Research division at Goldman Sachs, covering China and Asia Pacific ex-Japan regional equity portfolio strategy. Before GS, he covered US equity strategy as a part-time researcher at Trivariate Research. His previous experiences also include research work in the equity indices and fund of funds field.
 
-Cheng graduated magna cum laude from Rensselaer Polytechnic Institute with a B.S. in Computer Science, double majored in Business and Management.
+Cheng graduated magna cum laude from Rensselaer Polytechnic Institute with a B.S. in Computer Science, double majored in Business and Management. He also received an M.S. in Financial Economics from Columbia Business School.
 
 <!--
 **cheng-jiang/cheng-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
