@@ -1,6 +1,6 @@
-Cheng is currently an off-cycle analyst in the Global Investment Research division at Goldman Sachs, covering China and Asia Pacific ex-Japan regional equity portfolio strategy. Before GS, he covered US equity strategy as a part-time researcher at Trivariate Research. His previous experiences also include research work in the equity indices and fund of funds field.
+Cheng is an analyst at Goldman Sachs FICC and Equities, focusing on strategic equity product solutions and structuring. Previously, he covered China (A / H / ADR) and Asia-Pacific ex-Japan equity portfolio strategy at Goldman Sachs Global Investment Research. Before GS, he also held various research roles in the U.S. equity strategy, equity indices, and fund of funds fields.
 
-Cheng graduated magna cum laude from Rensselaer Polytechnic Institute with a B.S. in Computer Science, double majored in Business and Management. He also received an M.S. in Financial Economics from Columbia Business School.
+Cheng received an M.S. in Financial Economics from Columbia Business School and graduated magna cum laude with a B.S. in Computer Science from Rensselaer Polytechnic Institute.
 
 <!--
 **cheng-jiang/cheng-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
